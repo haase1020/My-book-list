@@ -24,4 +24,4 @@ _Please read [contribution guidelines] (contributing.md) before making any contr
 - [Spirituality] (#spirituality)
 
 ## Computer Science
-- [📕 Cracking the Coding Interview 6th Edition(2019)(https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/)
+- [📕 Cracking the Coding Interview 6th Edition(2019)(http://www.crackingthecodinginterview.com/)
