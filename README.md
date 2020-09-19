@@ -10,18 +10,18 @@ _Please read [contribution guidelines] (contributing.md) before making any contr
 📘 Blue books are books I have read
 📕 Red books are books I have yet to read
 
-- [Computer Science] (#computer-science)
-- [Environmeent] (#environment)
-- [Biographies] (#biographies)
-- [Autobiographies] (#autobiographies)
-- [Novels for elementary school children] (#books-for-elementary)
-- [Novels] (#novels)
-- [Learning] (#learning)
-- [Web Development] (#web-development)
-  - [CSS] (#css)
-  - [React] (#react)
-- [Web Design] (#web-design)
-- [Spirituality] (#spirituality)
+- [Computer Science](#computer-science)
+- [Environmeent](#environment)
+- [Biographies](#biographies)
+- [Autobiographies](#autobiographies)
+- [Novels for elementary school children](#books-for-elementary)
+- [Novels](#novels)
+- [Learning](#learning)
+- [Web Development](#web-development)
+  - [CSS](#css)
+  - [React](#react)
+- [Web Design](#web-design)
+- [Spirituality](#spirituality)
 
 ## Computer Science
 - [📕 Cracking the Coding Interview 6th Edition(2019)(http://www.crackingthecodinginterview.com/)
