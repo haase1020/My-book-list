@@ -8,6 +8,7 @@ The number after each book title is the year the book was written. Books are lis
 _Please read [contribution guidelines] (contributing.md) before making any contributions 📚._
 
 📘 Blue books are books I have read
+
 📕 Red books are books I have yet to read
 
 - [Computer Science](#computer-science)
