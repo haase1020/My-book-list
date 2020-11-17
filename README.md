@@ -26,3 +26,12 @@ _Please read [contribution guidelines] (contributing.md) before making any contr
 
 ## Computer Science
 - [📕 Cracking the Coding Interview 6th Edition(2019)](http://www.crackingthecodinginterview.com/)
+
+## Environment
+- [📕 How to Avoid a Climate Disaster (2021)](https://www.gatesnotes.com/How-to-Avoid-a-Climate-Disaster)
+
+## Novels for elementary school children
+- [📘 A Llama in the Family (1994)](https://www.amazon.com/Llama-Family-Johanna-Hurwitz/dp/0688133886)
+
+## Spirituality
+- [📘 Mere Christianity (1952)](https://www.goodreads.com/book/show/40792344-mere-christianity)
