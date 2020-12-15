@@ -34,6 +34,7 @@ _Please read [contribution guidelines] (contributing.md) before making any contr
 - [📘 A Llama in the Family (1994)](https://www.amazon.com/Llama-Family-Johanna-Hurwitz/dp/0688133886)
 - [📘 Emily's Runaway Imagination(2008)](https://www.goodreads.com/book/show/198688.Emily_s_Runaway_Imagination)
 - [📘 Charlotte's Web(1952)](https://www.goodreads.com/book/show/24178.Charlotte_s_Web)
+- [📘 Ginger Pye(1958)](https://en.wikipedia.org/wiki/Ginger_Pye)
 
 ## Spirituality
 - [📘 Mere Christianity (1952)](https://www.goodreads.com/book/show/40792344-mere-christianity)
