@@ -35,6 +35,7 @@ _Please read [contribution guidelines] (contributing.md) before making any contr
 - [📘 Emily's Runaway Imagination(2008)](https://www.goodreads.com/book/show/198688.Emily_s_Runaway_Imagination)
 - [📘 Charlotte's Web(1952)](https://www.goodreads.com/book/show/24178.Charlotte_s_Web)
 - [📘 Ginger Pye(1958)](https://en.wikipedia.org/wiki/Ginger_Pye)
+- [📘 The Great Billy Hopkins(1978)](https://en.wikipedia.org/wiki/The_Great_Gilly_Hopkins)
 
 ## Spirituality
 - [📘 Mere Christianity (1952)](https://www.goodreads.com/book/show/40792344-mere-christianity)
