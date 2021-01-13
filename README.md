@@ -37,6 +37,9 @@ _Please read [contribution guidelines] (contributing.md) before making any contr
 - [📘 Ginger Pye(1958)](https://en.wikipedia.org/wiki/Ginger_Pye)
 - [📘 The Great Billy Hopkins(1978)](https://en.wikipedia.org/wiki/The_Great_Gilly_Hopkins)
 
+## Novels
+-[📘 Hope Was Here(2000)](https://joanbauer.com/books/hope-was-here/)
+
 ## Spirituality
 - [📘 Mere Christianity (1952)](https://www.goodreads.com/book/show/40792344-mere-christianity)
 - [📘 Screwtape Letters (1942)](https://www.goodreads.com/book/show/8130077-the-screwtape-letters)
