@@ -43,3 +43,6 @@ _Please read [contribution guidelines] (contributing.md) before making any contr
 ## Spirituality
 - [📘 Mere Christianity (1952)](https://www.goodreads.com/book/show/40792344-mere-christianity)
 - [📘 Screwtape Letters (1942)](https://www.goodreads.com/book/show/8130077-the-screwtape-letters)
+
+## Learning
+- [📘 Daring Greatly (2015)](https://brenebrown.com/books-audio/)
